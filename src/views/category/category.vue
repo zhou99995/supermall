@@ -1,10 +1,15 @@
 <template>
-  <p>我是分类</p>
+  <div id="category">
+    <h2>我是分类</h2>
+  </div>
 </template>
 
 <script>
-export default {
 
+export default {
+  mounted() {
+    
+  }
 }
 </script>
 

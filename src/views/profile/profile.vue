@@ -1,13 +1,16 @@
 <template>
-  <p>我是用户</p>
+  <div>
+
+  </div>
 </template>
 
 <script>
-export default {
 
+
+export default {
+  
 }
 </script>
 
 <style>
-
 </style>
